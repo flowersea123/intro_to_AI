@@ -104,6 +104,6 @@ python projects/02_california_housing/california_housing.py --tune
 
 ## 数据和公开使用说明
 
-数据来源、尺寸、校验值和引用信息见 [`DATA_SOURCES.md`](DATA_SOURCES.md)。三份课程 PDF 未收入仓库，因为它们不是运行代码所必需的项目文件，并且其公开再分发权限未得到确认。
+数据来源、尺寸、校验值和引用信息见 [`DATA_SOURCES.md`](DATA_SOURCES.md)。
 
 本仓库目前未指定代码许可证。公开仓库可供阅读和学习，但复制、修改或再发布前，应由仓库所有者补充明确许可证。
